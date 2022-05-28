@@ -1,14 +1,22 @@
 # Aftermarket idb60 pcb
 
 ## Introduction
-This aftermarket pcb for the idb60 is plain and simple. Alps pcb for idb60 that no one asked for but got. It supports Alps SKCL/SKCM and SKCP (pcb mount). Mx stabilisers are used for SKCL/SKCM, costar pcb mount can be used for both. It also comes with USB-C and have ESD protection.
+This aftermarket pcb for the idb60 is plain and simple - an MX replacement pcb with USB-C, ESD protection, and a new bottom row option. This PCB has been produced previously by JLCPCB, and tested to fit and work with the original idb60 case. The current implementation of the RGB caps lock indicator is nonfunctional and should be either removed or updated prior to future production. The original intended RGB LED was the [SK6812MINI-E](https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf). The RGB indicator should also be slightly relocated further south since currently, the switch covers a majority of it up.
+## Features
+* USB-C
+* ESD Protection
+* VIAL Support
+* (theoretical) RGB Indicator
 
 ## Supported layouts
-![layout](https://github.com/Ludwig-van-Keebhoven/Aftermarket_idb60/blob/main/Graphics/layout.PNG)
+![layout](https://github.com/dannyjim-ml/idb60-ReplacementPCB/blob/main/Graphics/KLE.png)
 
 ## Contributors
-* Pngu from who knows where. Voted sexiest man alive three years in a row!
-* Me, Myself, and I
+* Pngu, for creating a wonderful board.
+* [Ludwig Van Keebhoven](https://github.com/Ludwig-van-Keebhoven/Aftermarket_idb60/), for designing an open source ALPS replacement PCB that helped in the design of this pcb.
 
 ## Previews
-![oreview](https://github.com/Ludwig-van-Keebhoven/Aftermarket_idb60/blob/main/Graphics/bottom.png)
+![preview](https://github.com/dannyjim-ml/idb60-ReplacementPCB/blob/main/Graphics/redbottom.png)
+
+## Tips
+If you care to drop me a tip, feel free to [buy me a coffee!](https://ko-fi.com/mfchill)
