@@ -20,5 +20,5 @@ This aftermarket pcb for the idb60 is plain and simple - an MX replacement pcb w
 ## Previews
 ![preview](https://github.com/dannyjim-ml/idb60-ReplacementPCB/blob/main/Graphics/redbottom.png)
 
-## Tips
-If you care to drop me a tip, feel free to [buy me a coffee!](https://ko-fi.com/mfchill)
+## Tips and Questions
+If you care to drop me a tip, feel free to [buy me a coffee!](https://ko-fi.com/mfchill) If you have any questions, feel free to reach out to me on discord at mfchill#5299.
