@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Keybage_MX_Alps")(type "KiCad")(uri "${KIPRJMOD}/KeybageLibrary/footprints/Keybage_MX_Alps.pretty")(options "")(descr ""))
+  (lib (name "Keybage_MX")(type "KiCad")(uri "${KIPRJMOD}/KeybageLibrary/footprints/Keybage_MX.pretty")(options "")(descr ""))
+  (lib (name "Kicad SilkScreens")(type "KiCad")(uri "C:/Users/djime/Desktop/Kicad Stuff/Libraries/Kicad SilkScreens.pretty")(options "")(descr ""))
+  (lib (name "Keybage_Components")(type "KiCad")(uri "${KIPRJMOD}/KeybageLibrary/footprints/Keybage_Components.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/djime/Desktop/Kicad Stuff/Keebio-Parts.pretty")(options "")(descr ""))
+)
